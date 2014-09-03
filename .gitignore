@@ -1,0 +1,5 @@
+.chef
+Berksfile.lock
+/cookbooks/
+/nodes/*
+!/nodes/sample.json

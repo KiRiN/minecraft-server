@@ -1,0 +1,12 @@
+{
+  "run_list": [
+      "minecraft",
+      "iptables_setting"
+  ],
+  "java": {
+    "install_flavor": "openjdk"
+  },
+  "minecraft": {
+    "accept_eula": true
+  }
+}
